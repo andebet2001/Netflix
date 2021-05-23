@@ -1,0 +1,3 @@
+be854bf228e7ba072d1eddaa69555da9 //api key from the movie database page
+
+https://netflix-acb68.web.app //my netflix project deploy link
